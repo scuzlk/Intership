@@ -1,0 +1,4 @@
+D:\vsprog\intenship\x64\Debug\intenship.vcxproj.CopyComplete
+D:\vsprog\intenship\x64\Debug\intenship.exe
+D:\vsprog\intenship\x64\Debug\libcurl-d.dll
+D:\vsprog\intenship\x64\Debug\zlibd1.dll
